@@ -12,3 +12,21 @@ delete an issue if I found it is a very bad resource.
 
 Commits are the actual progress. Git log in this repo will give me an instant
 overview of my recent learning progress.
+
+## Examples
+
+Create a learning topic
+
+```bash
+cd ~/code/learning-progress
+gh issue create -t "Topic" -b "url or other content"
+```
+
+Add note about progress
+
+```bash
+cd ~/code/learning-progress
+git commit --allow-empty -m "Finish course, close #1"
+# with alias
+ce "Finish course, close #1"
+```
