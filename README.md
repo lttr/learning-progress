@@ -26,6 +26,7 @@ Add note about progress
 
 ```bash
 cd ~/code/learning-progress
+git commit --allow-empty -m "Start course #1"
 git commit --allow-empty -m "Finish course, close #1"
 # with alias
 ce "Finish course, close #1"
