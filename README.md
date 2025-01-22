@@ -10,6 +10,9 @@ Interesting topics, courses, videos and books goes to open issues.
 Closing an issue means I've completed the book or course. I could eventually
 delete an issue if I found it is a very bad resource.
 
+Closing an issue as not completed means I've skipped the topic or course but may
+revisit it in the future.
+
 Commits are the actual progress. Git log in this repo will give me an instant
 overview of my recent learning progress.
 
